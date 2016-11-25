@@ -1,0 +1,6 @@
+[27-Apr-2015 00:05:59 UTC] PHP Warning:  include_once(recup_donnee.php): failed to open stream: No such file or directory in /home/eisticbe/public_html/PWD_Project/e-istic2.php on line 17
+[27-Apr-2015 00:05:59 UTC] PHP Warning:  include_once(): Failed opening 'recup_donnee.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eisticbe/public_html/PWD_Project/e-istic2.php on line 17
+[27-Apr-2015 00:05:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/eisticbe/public_html/PWD_Project/e-istic2.php on line 21
+[27-Apr-2015 00:06:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/eisticbe/public_html/PWD_Project/includes/recup_donnee.php on line 6
+[27-Apr-2015 00:09:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'eisticbe'@'localhost' (using password: YES) in /home/eisticbe/public_html/PWD_Project/includes/db_con.php on line 2
+[27-Apr-2015 00:09:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/eisticbe/public_html/PWD_Project/includes/db_con.php on line 2

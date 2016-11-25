@@ -1,0 +1,9 @@
+FileZilla
+hote : ftp.e-istic.besthost.tn
+mdp : k0JfOu4i23
+identifient : eisticbe
+port : 21
+
+Cpanel
+identifiant : eisticbe
+mdp : k0JfOu4i23
